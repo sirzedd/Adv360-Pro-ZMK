@@ -75,7 +75,7 @@
  &trans  &trans  &trans  &trans  &trans           &trans             &none   &none  &trans      &trans  &trans  &kp LBRC  &kp RBRC   &trans
  &trans  &trans  &trans  &trans  &trans           &trans             &none  &trans  &trans                        &trans    &trans    &none  &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT  &trans  &trans
  &trans  &trans  &trans  &trans  &trans           &trans             &none   &none  &trans       &none   &none    &trans     &none    &none    &trans    &trans  &trans     &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &mt LCTRL SPACE            &trans  &trans  &kp DELETE  &trans  &trans    &trans    &trans   &trans    &trans    &trans
+ &trans  &trans  &trans  &trans  &trans  &kp LCTRL(SPACE)            &trans  &trans  &kp DELETE  &trans  &trans    &trans    &trans   &trans    &trans    &trans
             >;
         };
 
