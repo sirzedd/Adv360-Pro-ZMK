@@ -75,7 +75,7 @@
  &trans  &kp GRAVE  &trans  &trans  &trans           &trans             &none   &none  &kp TILDE &kp LBRC  &kp RBRC  &kp LBKT  &kp RBKT  &kp BSLHk
  &trans  &trans  &trans  &trans  &trans           &trans             &none  &trans  &trans       &trans    &trans    &none  &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT  &trans  &trans
  &trans  &trans  &trans  &trans  &trans           &trans             &none   &none  &trans      &none   &none    &trans     &none    &none    &trans    &trans  &trans     &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &kp LC(SPACE)            &trans  &trans  &kp DELETE  &trans  &kp LC(ENTER)    &trans    &trans   &trans    &trans    &trans
+ &trans  &trans  &trans  &trans  &trans  &kp LC(SPACE)            &trans  &trans  &kp DELETE  &trans  &trans    &trans    &trans   &trans    &trans    &trans
             >;
         };
 
