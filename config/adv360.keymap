@@ -44,7 +44,7 @@
         &kp TAB             &kp Q       &kp W     &kp E     &kp R   &kp T                &none                                                                              &none   &kp Y      &kp U      &kp I       &kp O              &kp P         &kp EQUAL
    &hm CAPSLOCK ESCAPE      &kp A       &kp S     &kp D     &kp F   &kp G                &none      &kp LEFT_ALT  &kp BACKSPACE                  &kp RIGHT_ALT   &none      &none   &kp H      &kp J      &kp K       &kp L           &kp SEMI  &kp SINGLE_QUOTE
  &kp LEFT_SHIFT             &kp Z       &kp X     &kp C     &kp V   &kp B                                                 &mo 4                          &none                      &kp N      &kp M  &kp COMMA  &kp PERIOD          &kp SLASH   &kp RIGHT_SHIFT
-          &mo 2  &kp LEFT_CONTROL  &kp ESCAPE  &kp LBKT  &kp RBKT                    &kp SPACE  &kp LEFT_COMMAND      &kp RCTRL                  &kp BACKSPACE   &kp F13  &kp ENTER          &kp TILDE   &kp LBRC    &kp RBRC  &kp RIGHT_CONTROL             &mo 2
+          &mo 2  &kp LEFT_CONTROL  &kp ESCAPE  &kp LBKT  &kp RBKT                    &kp SPACE  &kp LEFT_COMMAND      &kp RCTRL                  &kp BACKSPACE   &kp LCMD(LS(LC(LA(F9))))  &kp ENTER          &kp TILDE   &kp LBRC    &kp RBRC  &kp RIGHT_CONTROL             &mo 2
             >;
         };
 
@@ -62,8 +62,8 @@
             bindings = <
  &kp F1  &kp F2  &kp F3  &kp F4  &kp F5  &kp F6                     &tog 1                                                                        &mo 3     &kp F7    &kp F8    &kp F9    &kp F10   &kp F11        &kp F12
  &trans  &trans  &trans  &trans  &trans  &trans                      &none                                                                        &none  &kp TILDE  &kp RBRC  &kp RBRC   &kp LBKT  &kp RBKT  &kp BACKSLASH
- &trans  &trans  &trans  &trans  &trans  &trans                      &none  &trans  &trans                   &trans      &trans                   &none   &kp LEFT  &kp DOWN    &kp UP  &kp RIGHT    &trans         &trans
- &trans  &trans  &trans  &trans  &trans  &trans                                     &trans                   &trans                                         &trans    &trans    &trans     &trans    &trans         &trans
+ &trans  &trans  &trans  &trans  &trans  &trans                      &none  &trans  &trans                   &trans      &trans                   &none   &kp LEFT  &kp DOWN    &kp UP  &kp RIGHT    &trans        &trans
+ &trans  &trans  &trans  &trans  &trans  &trans                                     &trans                   &trans                                         &trans    &trans    &trans     &trans    &trans        &trans
  &trans  &trans  &trans  &trans  &trans                    &kp LC(SPACE)  &trans  &trans                  &kp DEL  &kp DELETE  &kp LC(ENTER)               &trans    &trans     &trans    &trans         &trans
             >;
         };
